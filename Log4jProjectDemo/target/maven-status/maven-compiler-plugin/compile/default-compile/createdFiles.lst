@@ -1,0 +1,5 @@
+META-INF\MANIFEST.MF
+com\gyana\Log4j\controller\Controller.class
+META-INF\maven\com.gyana.Log4j\Log4jProjectDemo\pom.properties
+com\gyana\Log4j\Log4jProjectDemoApplication.class
+META-INF\maven\com.gyana.Log4j\Log4jProjectDemo\pom.xml

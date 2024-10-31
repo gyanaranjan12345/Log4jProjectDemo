@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.gyana.Log4j.Log4jProjectDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.303 s -- in com.gyana.Log4j.Log4jProjectDemoApplicationTests
