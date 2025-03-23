@@ -15,6 +15,6 @@ public class Controller {
 	@GetMapping("/gyana")
 	public String test() {
 		log.info("Controller executing...");
-		return "Hello Gyana !!!!!!!!!!!!!! How ARE YOU????? ";
+		return "Hello Gyana !";
 }
 }
