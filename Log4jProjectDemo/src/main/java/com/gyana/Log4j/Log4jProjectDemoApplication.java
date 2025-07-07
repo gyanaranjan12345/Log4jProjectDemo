@@ -23,6 +23,8 @@ public class Log4jProjectDemoApplication {
 		log.warn("This is  an trace msg");
 		log.error("This is  an trace msg");
 		log.fatal("This is  an trace msg");
+		log.trace("Hi This is Gyana");
+		log.trace("Hi This is Gyana");
 	}
 
 }
